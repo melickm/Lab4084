@@ -8,6 +8,11 @@ This project is a starting point for Interconnect 2016 Lab 4084. It contains som
 
 3. Third Deployment - Navigate To the UI project's overview page to fork the project: https://hub.jazz.net/project/melickm/Microservices_UI/overview
 
+## Cut-n-paste helpers
+* Sauce Labs User Credentials
+  * UserName:  ```Lab4084``` 
+  * Access Key: ```c61e8e3c-85bb-4dc0-b262-d98768f04af4```
+
 ## References
 * [Lab 4084 instructions] (https://github.com/melickm/Lab4084/blob/master/Interconnect2016-Lab4084.pdf)
 * [IBM Garage Method] (https://www.ibm.com/devops/method/)
